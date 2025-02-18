@@ -56,4 +56,17 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // console.log(--salary)
 
 // *************Operator predence**************************I
-// follows BDMAS rule but if there are two same operators in the same line the the one coming before in the line will be done.
+// follows BDMAS rule but if there are two same operators in the same line the the one coming before in the line will be done
+
+//**************************concatinating strings ***********************************
+// const username = "ali"
+// let salary= 6000;
+// var value = 60;
+// console.log("thank you very much"+ " " +username+" "+ "bhai")
+// console.log("your whole month" +" "+salary+" "+"is paid on the following day.")
+// console.log("Hello"+" "+username+" "+"bhai"+" "+"your salary is"+" "+salary+" ")
+
+// const a=67;
+// const b=54;
+// const sum=a+b;
+// console.log(`The summision of ${a} and ${b} is ${sum}`)
