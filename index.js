@@ -41,3 +41,19 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // console.log(mul)
 // console.log(div)
 
+// **********************increment and decrement operators***************************
+// post increment (first return original value then increments the value)
+// let salary = 10;
+// console.log(salary++);
+// console.log(salary);
+// pre increment (first returns the incremeted value from the begining of console)
+// let salary = 10;
+// console.log(++salary)
+// console.log(salary)
+// let salary= 10;
+// console.log(salary--)
+// console.log(salary)
+// console.log(--salary)
+
+// *************Operator predence**************************I
+// follows BDMAS rule but if there are two same operators in the same line the the one coming before in the line will be done.
