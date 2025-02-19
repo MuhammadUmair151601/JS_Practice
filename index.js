@@ -116,3 +116,16 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // else{
 //     alert("its not a number")
 // }
+
+// **********************comparison operators*************************
+// console.log(1==1)
+// console.log(1===1)
+// console.log(1=="1")
+// console.log(1==="1")
+// console.log(1!=1)
+// console.log(1!="1")
+// console.log(1!=="1")
+// console.log(2<1)
+// console.log(1<2)
+// console.log(2>1)
+// console.log(1>2)
