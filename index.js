@@ -70,3 +70,32 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // const b=54;
 // const sum=a+b;
 // console.log(`The summision of ${a} and ${b} is ${sum}`)
+
+// ****************if statements *******************l
+// let age = +prompt("please Enter your age")
+// if (age<18)
+// {
+//     alert("you are not eligible for driving")
+// }
+// else if (age >= 18)
+// {
+//     alert("you are eligible for driving ")
+// }
+// else {
+//     alert("you inserted a wrong value")
+// }
+
+// let name = prompt("please enter your name ")
+// let weather= prompt("how is the weather")
+// if (weather=rain)
+// {
+//     alert("take an umbrella")
+// }
+// else if (weather=not_rain)
+// {
+//     alert("don't take umbrella")
+// }
+// else
+// {
+//     alert("wrong info provided")
+// }
