@@ -99,3 +99,20 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // {
 //     alert("wrong info provided")
 // }
+
+// let num = +prompt("please enter a number")
+// if (num===0)
+// {
+//     alert("you inserted zero")
+// }
+// else if (num<0)
+// {
+//     alert("you entered a negative value")
+// }
+// else if (num>0)
+// {
+//     alert("you entered a positive number")
+// }
+// else{
+//     alert("its not a number")
+// }
