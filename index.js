@@ -129,3 +129,33 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // console.log(1<2)
 // console.log(2>1)
 // console.log(1>2)
+
+// ************logical operators in js**********************
+// && (and operator)
+// || (or operator)
+// ! (Not operator)
+// let marks = +prompt("please insert your marks")
+// if (marks<=100 && marks >=90)
+// {
+//     alert("Excellent you got grade A1")
+// }
+// else if (marks<=90 && marks>=80)
+// {
+//     alert("very good you got grade A")
+// }
+// else if (marks<=80 && marks>=50)
+// {
+//     alert("you got grade B please improve it")
+// }
+// else if (marks<50 && marks>=0)
+// {
+//     alert("you got failed")
+// }
+// else if (marks<0 || marks>100)
+// {
+//     alert("your marks are not in range")
+// }
+// else 
+// {
+//     alert("please insert some accurate marks value")
+// }
