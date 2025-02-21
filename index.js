@@ -159,3 +159,23 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // {
 //     alert("please insert some accurate marks value")
 // }
+
+
+// ********************Nested if statements in js*********************
+// used when we want to add if inside the if statements
+// EXAMPLE
+// const username= prompt("please enter the username")
+// let password =""
+// if (username=== "umair")
+// {
+//     password=prompt("Enter your password")
+//     if(password==="12345")
+//     {
+//         document.write("login successful")
+//     }
+//     else{
+//         document.write("incorrect password")
+//     } }
+//     else {
+//         document.write("incorrect username")
+//     }
