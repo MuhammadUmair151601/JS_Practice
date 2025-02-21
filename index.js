@@ -179,3 +179,23 @@ alert("the sum of a and b is " + "" + sum)*?*/
 //     else {
 //         document.write("incorrect username")
 //     }
+
+// Another example of using nested if statement
+// let age = +prompt("enter your age please")
+// let student = prompt ("are you a student?")
+// if (age<12)
+// {
+//     document.write("Tecket price = 12$")
+// }
+// else {
+//     if (age>=12 && age <=18 && student)
+//     {
+//         document.write("Ticket price = 18$")
+//         }
+    
+//     else
+//     {
+//         document.write("ticket price 25$")
+//     }
+// }
+
