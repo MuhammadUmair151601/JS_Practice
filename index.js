@@ -199,3 +199,13 @@ alert("the sum of a and b is " + "" + sum)*?*/
 //     }
 // }
 
+// *****************************Arrays*********************
+// when we want to print many elements at a time we will have to write console.log again and again which is time costly but if we want to make it easy we add them into the arrays.  Arrays are like containers which contains many
+// elements which we can call easily at a time or we can call any elements from that array at any time.
+//  Example of an Array
+// let fruits = ["🍅" , "🍇" , "🍈" , "🍉" ,"🍊" , "🍌" , "🍍" , "🍑"]
+// console.log(fruits);
+// we can also call a single element from an array by putting the index number in it.
+// console.log(fruits[4])
+// console.log(fruits[5])
+// Arrays are dynamic and their size is not fixed.
