@@ -209,3 +209,7 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // console.log(fruits[4])
 // console.log(fruits[5])
 // Arrays are dynamic and their size is not fixed.
+
+
+//*********************Solving book initial chapters quizes********************
+// Done with ch#1 quiz (alerts)
