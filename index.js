@@ -213,3 +213,5 @@ alert("the sum of a and b is " + "" + sum)*?*/
 
 //*********************Solving book initial chapters quizes********************
 // Done with ch#1 quiz (alerts)
+// Done with ch#2 quiz (strings)
+// 
