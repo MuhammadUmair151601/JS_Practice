@@ -215,4 +215,5 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // Done with ch#1 quiz (alerts)
 // Done with ch#2 quiz (strings)
 // Done with ch#3 quiz (variable of numbers)
+// Done with ch#4 quiz (var names legal and illegal)
 // 
