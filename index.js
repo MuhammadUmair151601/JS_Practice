@@ -218,3 +218,4 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // Done with ch#4 quiz (var names legal and illegal)
 // Done with ch#5 quiz (mathematical expressions)
 // Done with ch#6 quiz (unfamiliar operators)
+// Done with ch#7 quiz (math expressions elimination ambiguity)
