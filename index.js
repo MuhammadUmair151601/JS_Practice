@@ -222,3 +222,4 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // Done with ch#8 quiz (concatination text strings)
 // Done with ch#9 quiz (prompts)
 // Done with ch#10 quiz (if statements)
+// Done with ch#11 quiz (comparison operators)
