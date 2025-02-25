@@ -225,4 +225,4 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // Done with ch#11 quiz (comparison operators)
 // Done with ch#12 quiz (if else if statements)
 // Done with ch#13 quiz (testing sets of conditions)
-
+// Done with ch#14  quiz (nested if statement)
