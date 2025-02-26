@@ -227,3 +227,22 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // Done with ch#13 quiz (testing sets of conditions)
 // Done with ch#14  quiz (nested if statement)
 // Done with ch#15 quiz (Arrays in Js)
+
+// **********************Adding elements to the Array*************************
+// const books = ["physics", "chemistry", "biology"]
+//     books.push = "computer";
+//     console.log(books)
+
+// const fruits = ["guava", "apple", "banana"]
+// fruits.push ="mango"
+
+// console.log(fruits);
+// let names = ["ali", "aftab", "ahmed"]
+// names[3] = "fahad"
+// names[4] = "faiz"
+// console.log(names);
+// let numbers = [1, 2, 3, 4, 5]
+// numbers[5]=6
+// numbers[6]=7
+// numbers[7]=8
+// console.log(numbers)
