@@ -246,3 +246,13 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // numbers[6]=7
 // numbers[7]=8
 // console.log(numbers)
+
+// ****************** Removing Elements from an array*********************
+// let books = ["phy", "chem", "bio"]
+// books.pop();
+// console.log(books)
+
+// let names = ["ahmed", "raza", "Ali", "fahad"]
+// names.pop();
+// console.log(names);
+
