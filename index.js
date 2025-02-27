@@ -256,4 +256,5 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // names.pop();
 // console.log(names);
 
-// Done with ch#16 adding and removing elements from an array:
+// Done with ch#16 quiz adding and removing elements from an array:
+
