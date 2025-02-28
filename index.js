@@ -292,4 +292,5 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // console.log(slicedarray)
 // it will print ["hen", "tiger"] means from index 2 to index 3 one less from extreme:
 
-// 
+// Done with ch#17 quiz (adding, removing, replacing arrays in js)
+// m 
