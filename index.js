@@ -258,3 +258,14 @@ alert("the sum of a and b is " + "" + sum)*?*/
 
 // Done with ch#16 quiz adding and removing elements from an array:
 
+// ***************** splice of an array ********************
+// used  as splice (1, 2, element1, element2)
+// while 1 represents that where to put elements
+// while 2 represents what to replace
+// Example:
+
+// let names = ["ali", "ahmed", "ahad", "aliyaan", "ubaid"];
+// names.splice(2, 2, "ammar", "qasim")
+// console.log(names);
+
+// in the above example splice array is used wher the elements are inserted at position 2 and 2 elements are removed from next and the elements are added.
