@@ -318,3 +318,12 @@ alert("the sum of a and b is " + "" + sum)*?*/
 
 // Example #3
 // printing table of 10 using for loop:
+// for (i=1; i<=10; i++)
+// {
+//     console.log(`10 * ${i} = ${i * 10}`)
+// }
+// ******Now printing same table in reverse order:
+// for (i=10; i>=1; i--)
+// {
+//     console.log(`10 * ${i} = ${i * 10}`)
+// }
