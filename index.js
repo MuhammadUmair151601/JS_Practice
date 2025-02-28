@@ -258,6 +258,19 @@ alert("the sum of a and b is " + "" + sum)*?*/
 
 // Done with ch#16 quiz adding and removing elements from an array:
 
+// ****************** Adding and removing first elements to an array***************
+// let array =[1, 2, 3, 4, 5, 6, 7, 8]
+// array.shift()
+// console.log(array) 
+// it will remove first element of the array
+
+// ************************Unshift used for adding back element to an array ********************
+// let array = [1, 2, 3, 4, 5, 6, 7, 8]
+// array.unshift(1, 2)
+// console.log(array)
+// it will add back the elements to the starting of an array
+// .
+
 // ***************** splice of an array ********************
 // used  as splice (1, 2, element1, element2)
 // while 1 represents that where to put elements
