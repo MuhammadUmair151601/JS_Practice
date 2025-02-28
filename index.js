@@ -293,4 +293,23 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // it will print ["hen", "tiger"] means from index 2 to index 3 one less from extreme:
 
 // Done with ch#17 quiz (adding, removing, replacing arrays in js)
-// m 
+
+// ********************For loops in Js***********************
+// used to print multiple lines of operation in one statement
+// i-e for (statement one, statement 2, statement 3)
+// statement one (checked before execution)
+// statement two (contains the condition)
+// statement three (contains increments etc applied after execution)
+
+// Example one
+// printing numbers from one to ten
+// for (let i=1; i<=10; i++)  {
+//    console.log(i);
+// }
+
+// Example two
+// printing a sentence 50 times.
+// for (let i = 0; i<=49; i++)
+// {
+//     console.log(`${i}:i am a guy`)
+// }
