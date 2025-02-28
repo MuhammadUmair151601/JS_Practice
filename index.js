@@ -313,3 +313,8 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // {
 //     console.log(`${i}:i am a guy`)
 // }
+
+// Done with ch#18 (for loops in java-script)
+
+// Example #3
+// printing table of 10 using for loop:
