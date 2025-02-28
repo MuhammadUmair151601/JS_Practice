@@ -269,3 +269,14 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // console.log(names);
 
 // in the above example splice array is used wher the elements are inserted at position 2 and 2 elements are removed from next and the elements are added.
+
+// ***************** Array slicing ******************
+// slicing of an array is used in order to print a specific part of an array.
+// here slice(1, 2) is used where 1 shows from index one to index 2 array will be printed
+// Example of slice:
+// let array = ["lion", "mouse", "hen", "tiger", "leopeard", "monkey"]
+// let slicedarray = array.slice(2, 4)
+// console.log(slicedarray)
+// it will print ["hen", "tiger"] means from index 2 to index 3 one less from extreme:
+
+// 
