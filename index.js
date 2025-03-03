@@ -349,3 +349,4 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // else{
 //     alert("It is invalid city")
 // }
+// Done with ch#19 Quiz (Flags and loopus interruptus)
