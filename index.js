@@ -327,3 +327,25 @@ alert("the sum of a and b is " + "" + sum)*?*/
 // {
 //     console.log(`10 * ${i} = ${i * 10}`)
 // }
+// *******************Flags and loopus interruptus in JS**************
+// Flag is used as a sign for an element being found in the array
+// while the loop breaks when the element is found in array in loopus interruptus:
+// EXAMPLE
+// const cleanestCities = ["peshawar", "islamabad", "lahore", "pindi", "attock"];
+// const cityToFind = prompt("Enter your city name");
+
+// let cityMilli = false;
+
+// for(let cityIndex = 0; cityIndex < cleanestCities.lenth; cityIndex++){
+//     if(cityToFind === cleanestCities[cityIndex]){
+//         cityMilli = true;
+//         break;
+//     }
+//     console.log(cityIndex)
+// }
+// if (cityMilli){
+//     alert("it is the cleanest city")
+// }
+// else{
+//     alert("It is invalid city")
+// }
